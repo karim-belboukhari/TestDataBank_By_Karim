@@ -1,4 +1,4 @@
-# 🏦 TestDataBank v1.0 - Initial Release 🚀 
+# 🏦 TestDataBank Desktop App v1.0 - Initial Release 🚀 by karim 
 
 [![Release](https://img.shields.io/badge/Download-TestDataBank_v0.1.0-blue?style=for-the-badge)](https://github.com/karim-belboukhari/TestDataBank_By_Karim/releases/tag/v0.1.0)
 
@@ -18,8 +18,10 @@ TestDataBank is a robust tool designed to help QA testers organize, manage, and 
 ## 📥 Installation Guide
 
 ### Prerequisites
-- **Windows OS**
-- **Administrator Privileges**
+- **Windows OS** 💻
+- **macOS** 🍏
+- **Unix/Linux OS** 🐧
+- **Administrator Privileges** 🛡️
 
 ### Steps
 1. Download the installer from the [release page](https://github.com/karim-belboukhari/TestDataBank_By_Karim/releases/tag/v0.1.0).
@@ -34,9 +36,26 @@ TestDataBank is a robust tool designed to help QA testers organize, manage, and 
 
 ## 🛠️ Usage Instructions
 
-- **Launch** TestDataBank from the desktop or Start Menu shortcut.
-- **Add New Data**: Easily input new test data entries through a clean and intuitive interface.
-- **Export Results**: Click on the export button to save your data in Excel, PDF, or JSON format for sharing or documentation purposes.
+### 1. **Main Page**
+
+The **Main Page** allows you to choose between two options:
+- **Store Data**: Input new test data into the system.
+- **Search Data**: Find and export existing test data.
+
+<img src="images/mainpage.png" alt="Main Page Interface" width="300"/> 
+
+### 2. **Store Data Page**
+
+In the **Store Data** page, you can enter new test data including usernames, passwords, tags, comments, and environment configurations.
+
+<img src="images/storedata.png" alt="Store Data Interface" width="300"/> 
+<img src="images/storebyenv.png" alt="Store by Environment" width="300"/>
+
+### 3. **Search Data & Export Page**
+
+On the **Search Data** page, search for test data using various filters and export the results in Excel, PDF, or JSON format for documentation or sharing purposes.
+
+<img src="images/serachdata.png" alt="Search & Export Interface" width="300"/>
 
 ---
 
