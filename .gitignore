@@ -1,0 +1,17 @@
+#ignore pycache
+__pycache__
+#ignore
+venv
+#ignore
+TestDataBankInstaller.iss
+#ignore
+mysql-installer.msi
+#ignore
+python-3.13.0-amd64.exe
+#ignore
+build\main
+#ignore
+dist
+#ignore
+output
+
