@@ -12,6 +12,5 @@ python-3.13.0-amd64.exe
 build\main
 #ignore
 dist
-#ignore
-output
+
 
