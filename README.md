@@ -19,9 +19,6 @@ TestDataBank is a robust tool designed to help QA testers organize, manage, and 
 
 ### Prerequisites
 - **Windows OS** 💻
-- **macOS** 🍏
-- **Unix/Linux OS** 🐧
-- **Administrator Privileges** 🛡️
 
 ### Steps
 1. Download the installer from the [release page](https://github.com/karim-belboukhari/TestDataBank_By_Karim/releases/tag/v0.1.0).
@@ -80,12 +77,6 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 2. Create a new branch (`feature/new-feature`).
 3. Commit changes to your branch.
 4. Open a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
